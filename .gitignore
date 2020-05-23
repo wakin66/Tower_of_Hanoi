@@ -1,0 +1,5 @@
+# DS_Store Files
+*.DS_Store
+
+#ByeBug Log Files
+*.byebug_history
