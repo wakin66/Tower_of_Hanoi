@@ -1,3 +1,5 @@
+require 'hanoi'
+
 describe Hanoi do
     let(:game) {Hanoi.new}
 
