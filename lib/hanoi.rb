@@ -78,7 +78,7 @@ class Hanoi
             end
             make_move(start_pos,end_pos)
         end
-        ststem('clear')
+        system('clear')
         render
         puts "CONGRATULATIONS! YOU WON!"
         sleep(2)
